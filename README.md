@@ -6,9 +6,23 @@ My interests sit at the intersection of data, AI, strategy, product, and finance
 
 ## Projects
 
-- **LLM-Based Anomaly Detection for Gaming Analytics** – Developed an AI-assisted anomaly-detection framework for gaming KPIs using forecasting, statistical methods, machine learning, and LLMs.
-- **AI-Driven Business Optimization** – Built a pseudo-labeling and AI automation solution focused on improving operational efficiency and reducing costs.
-- **Public Trust Analytics for the London Metropolitan Police** – Applied statistical modelling and machine learning to analyze public trust, forecast performance, and support policy recommendations.
+### 1. LLM-Based Anomaly Detection for Gaming Analytics
+
+Developed and evaluated an anomaly-detection framework for gaming KPIs using forecasting, statistical methods, machine learning, and LLM-based analytics.
+
+**Location:** `Project Files/1. LLM-Based Anomaly Detection for Gaming Analytics/`
+
+### 2. AI-Driven Pseudo-Labeling for Business Optimization
+
+Built an AI-powered pseudo-labeling solution to automate operational processes, improve efficiency, and support cost reduction.
+
+**Location:** `Project Files/2. AI-Driven Pseudo-Labeling for Business Optimization/`
+
+### 3. Underwater Fish Detection and Tracking with YOLOv8 and DeepSORT
+
+Created an end-to-end computer vision pipeline to detect, track, and count fish in underwater environments using YOLOv8, DeepSORT, Roboflow, and custom data annotation.
+
+**Location:** `Project Files/3. Underwater Fish Detection and Tracking/`
 
 ## More About Me
 
